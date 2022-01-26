@@ -1,0 +1,17 @@
+body{
+    background: plum;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+h3{
+    text-align: right;
+    color: whitesmoke;
+}
+p{
+    text-align: center;
+    color: blue;
+    background-color: silver;
+}
+
